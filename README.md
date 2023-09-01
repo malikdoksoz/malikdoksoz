@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋, I'm Malik</h2>
-<h2 align="center">full-stack developer web/mobile/api</h2>
+<h2 align="center">Hi 👋, I'm Malik from Turkey</h2>
+<h2 align="center">full-stack developer (web/mobile/api)</h2>
 <h2 align="center">
 <a href="https://malikdoksoz.com/" target="blank">😎 Portfolio 👈</a></h2>
-
+<blockquote>11+ years exp.</blockquote>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikdoksoz&label=Profile%20views&color=2969ff&style=flat" alt="malikdoksoz" /> </p>
 
 
