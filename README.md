@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikdoksoz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="malikdoksoz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikdoksoz&show_icons=true&theme=cobalt&locale=en" alt="malikdoksoz" /></p>
 -->
+
+<h6>Coded By Malik</h6>
