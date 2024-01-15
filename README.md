@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋</h2>
-<h2 align="center">full-stack developer (web/mobile/api)</h2>
+<h2 align="center">full-stack developer (web/desktop/mobile/api)</h2>
 <h2 align="center">
 <a href="https://malikdoksoz.com/" target="blank">😎 Portfolio 👈</a></h2>
 <blockquote>11+ years exp.</blockquote>
